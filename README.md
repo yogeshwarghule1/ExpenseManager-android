@@ -6,7 +6,7 @@
 
 Android app to manage expenses
 
-#### Download the latest app from the release tab
+#### Download the latest app from the release tab   
 
 ## Video series on instrumentation testing
 [![](https://github.com/ajitsing/ScreenShots/blob/master/expense_manager/instrumentation_testing_series.png)](https://www.youtube.com/watch?v=gdsxVfq-yNM&list=PLFYf87MeyEq588ibGPTu5lEhnJZG6KsmR&index=1)
