@@ -1,4 +1,4 @@
-name: CI lint
+name: CI lint & Unit test
 on:
   push:
     branches: [ master ]
