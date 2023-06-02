@@ -1,4 +1,4 @@
-name: Generating APK   
+name: Generating APK     
 on: 
   push:
     branches: [ master ]
