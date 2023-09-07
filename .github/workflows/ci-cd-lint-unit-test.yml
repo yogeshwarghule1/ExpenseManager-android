@@ -2,7 +2,7 @@ name: Deploy App CI CD
 
 on:
   push:
-    branches: [ master ]
+    branches: [ master ]  
 
 jobs:
   build:
